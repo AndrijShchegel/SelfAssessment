@@ -1,28 +1,28 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 👂 heard
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - Strong and weak sides of node.js 🎓 known
+  - Stateful and stateless servers 🎓 known
+  - Nonblocking I/O and slocking code 🎓 known
+  - Event loop: phases 🎓 known
+  - Event loop: microtasks and macrotasks 🎓 known
+  - Garbage collection 🎓 known
+  - Node.js LTS schedule 🎓 known
+  - I/O-bound, CPU-bound, memory-bound tasks 🎓 known
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module 👂 heard
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 👂 heard
+  - node:module 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 🎓 known
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 🖐️ used
+  - Dependencies: package.json and package lock 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection 🎓 known
-  - DI containers
+  - Dependency injection 🖐️ used
+  - DI containers 🎓 known
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
@@ -36,16 +36,16 @@
   - Streams API
   - Web Streams API
   - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Password hashing with node:crypto.scrypt 🎓 known
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async 🎓 known
   - Copy folder recursively
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage 🎓 known
+  - AsyncResource 🎓 known
   - Deprecated domain API
   - Node.js single executable
   - Stream back pressure
@@ -55,25 +55,25 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL 🎓 known
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer 🎓 known
+  - Multilayer approach 🎓 known
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP 🎓 known
+  - SOLID 🎓 known
+  - GoF patterns 🎓 known
   - Distributed systems
   - Highload applications
   - Clean architecture
   - DDD
-  - Message Queue
+  - Message Queue 🎓 known
   - CQS
   - CQRS
   - Event sourcing
@@ -106,7 +106,7 @@
   - Fetch API 🎓 known
   - IncomingMessage 🎓 known
   - SQL injection 🎓 known
-  - noDelay
+  - noDelay 🎓 known
   - keep-alive
   - ALPN
   - SNI callback
@@ -114,15 +114,15 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Logging 🎓 known
+  - Application configuring 🎓 known
+  - Testing 🎓 known
+  - CI/CD 🎓 known
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
   - back pressure
-  - Buffer
+  - Buffer 🎓 known
   - Console
   - Inspector
   - Reliability
@@ -136,16 +136,16 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
-  - How to avoid mixins
+  - Error 🖐️ used
+  - error.cause 🎓 known
+  - error.code 🎓 known
+  - error.message 🖐️ used
+  - error.stack 🎓 known
+  - How to avoid mixins 🎓 known
   - Error.captureStackTrace
   - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Heap dump 🎓 known
+  - Debugging tools 🎓 known
   - Flame graph
   - Memory leaks
   - Resource leaks

@@ -2,14 +2,14 @@
 
 - Theory
   - Procedural programming 🖐️ used
-  - Imperative programming
+  - Imperative programming 🎓 known
   - Structured programming 🎓 known
   - Non-structured programming 🎓 known
   - Functional programming 🖐️ used
   - Prototype-based programming 🎓 known
   - Object-oriented programming 🖐️ used
-  - Object-based programming
-  - Generic programming
+  - Object-based programming 🎓 known
+  - Generic programming 🎓 known
   - Concurrent computing 🎓 known
   - Asyncronous programming 🖐️ used
   - Parallel programming 🎓 known
@@ -47,17 +47,17 @@
   - Abstract Factory
   - Adapter
   - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Strategy 🎓 known
+  - Facade 🎓 known
+  - Proxy 🎓 known
+  - Chain of Responsibility 🎓 known
+  - Command 🎓 known
+  - Iterator 🎓 known
+  - State 🎓 known
   - Bridge
   - Builder
-  - Prototype
-  - Composite
+  - Prototype 🎓 known
+  - Composite 🎓 known
   - Decorator
   - Flyweight
   - Mediator
