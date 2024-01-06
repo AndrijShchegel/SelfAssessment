@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -13,7 +13,7 @@
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - node:module
+  - node:module 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
@@ -21,12 +21,12 @@
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 🎓 known
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 🎓 known
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) 🎓 known
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
+  - TLS 🎓 known
+  - Websocket 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS 🎓 known
+  - DDoS 🎓 known
+  - XSS 🎓 known
   - Path traversal
-  - CSRF
-  - DNS
-  - Fetch API
-  - IncomingMessage
-  - SQL injection
+  - CSRF 🎓 known
+  - DNS 🎓 known
+  - Fetch API 🎓 known
+  - IncomingMessage 🎓 known
+  - SQL injection 🎓 known
   - noDelay
   - keep-alive
   - ALPN
