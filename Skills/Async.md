@@ -1,38 +1,38 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🎓 known
-  - try..catch 🎓 known
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
   - Non-blocking 🎓 known
-  - Async I/O 🎓 known
+  - Async I/O 🖐️ used
   - Thread pool 🎓 known
   - Pattern Reactor
   - CAS operations
-  - epoll 👂 heard
-  - kqueue 👂 heard
+  - epoll 🎓 known
+  - kqueue 🎓 known
   - Completion ports
   - Event ports
   - libuv
   - Race conditions
   - Dead locks 👂 heard
   - Live locks 👂 heard
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 🎓 known
+  - Parallel programming 🎓 known
   - Actor Model
-  - Thread
+  - Thread 🎓 known
   - Process
 - Async contracts
-  - Callbacks 🎓 known
-  - Callback-last-error-first 🎓 known
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 🖐️ used
   - Thenable
-  - Promise 🎓 known
-  - Async/await 🎓 known
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event 🎓 known
+  - Sync generator 🎓 known
+  - Async Generator 🎓 known
+  - Async Iterator 🎓 known
+  - Event 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
@@ -47,16 +47,16 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 🖐️ used
   - Observable/Observer
-  - Readable
-  - Writable
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Pool 🎓 known
+  - Async Queue 🎓 known
+  - Async Collector 🎓 known
   - Semaphore
-  - Mutex
+  - Mutex 🎓 known
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers 🎓 known
@@ -66,14 +66,14 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
+  - child_process 🎓 known
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code 🎓 known
   - Better stack traces with return await
   - JSON: streaming serialization
   - promisify

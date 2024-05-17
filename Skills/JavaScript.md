@@ -10,28 +10,28 @@
   - apply 🖐️ used
   - instanceof 🖐️ used
   - ...spread 🖐️ used
-  - ...rest
+  - ...rest 🎓 known
   - typeof 🖐️ used
   - destructuring
-  - generator
+  - generator 🎓 known
   - iterator 🖐️ used
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - async generator 🎓 known
+  - async iterator 🎓 known
+  - chaining 🎓 known
+  - optional chaining 🎓 known
   - IIFE
-  - global
-  - globalThis
+  - global 🎓 known
+  - globalThis 🎓 known
   - window 🖐️ used
   - getters and setters 🖐️ used
-  - __proto__
+  - __proto__ 🎓 known
   - prototype 🖐️ used
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators 🖐️ used
   - ternary operator 🖐️ used
   - void 🖐️ used
-  - yield
+  - yield 🎓 known
   - await 🖐️ used
   - template literal
   - strict mode 🖐️ used
@@ -67,16 +67,16 @@
   - functional object 🖐️ used
 - Data structures
   - Array 🖐️ used
-  - mixin
+  - mixin 🎓 known
   - extend 🖐️ used
   - typed arrays 🖐️ used
   - Map 🖐️ used
   - Set 🖐️ used
   - undefined 🖐️ used
   - null 🖐️ used
-  - Proxy
-  - weak collections
-  - timers
+  - Proxy 🎓 known
+  - weak collections 🎓 known
+  - timers 🎓 known
   - EventEmitter 🖐️ used
   - RegExp
   - Date 🖐️ used

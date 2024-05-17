@@ -50,7 +50,7 @@
   - functor 🖐️ used
   - monad 👂 heard
   - monoid 👂 heard
-  - generator
+  - generator 🎓 known
   - coroutine 👂 heard
 - Data structures
   - array 🖐️ used
