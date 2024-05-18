@@ -1,89 +1,122 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - arrow function 🖐️ used
-  - async function 🖐️ used
-  - call 🖐️ used
-  - bind 🖐️ used
-  - apply 🖐️ used
-  - instanceof 🖐️ used
-  - ...spread 🖐️ used
-  - ...rest 🎓 known
-  - typeof 🖐️ used
-  - destructuring
-  - generator 🎓 known
-  - iterator 🖐️ used
-  - async generator 🎓 known
-  - async iterator 🎓 known
-  - chaining 🎓 known
-  - optional chaining 🎓 known
+  - `Object` 🖐️ used
+  - `Function` 🖐️ used
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String` 🖐️ used
+  - `Symbol`
+  - `Infinity` 🖐️ used
+  - `NaN` 🖐️ used
+  - `undefined` 🖐️ used
+  - `null` 🖐️ used
+  - `this`
+  - `instanceof` 🖐️ used
+  - `...spread` 🖐️ used
+  - `...rest` 🎓 known
+  - `typeof` 🖐️ used
+  - Destructuring
+  - Generators 🎓 known
+  - Iterators 🖐️ used
+  - Async generator 🎓 known
+  - Async iterator 🎓 known
+  - Chaining 🎓 known
+  - Optional chaining 🎓 known
   - IIFE
-  - global 🎓 known
-  - globalThis 🎓 known
-  - window 🖐️ used
-  - getters and setters 🖐️ used
-  - __proto__ 🎓 known
-  - prototype 🖐️ used
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 🖐️ used
-  - ternary operator 🖐️ used
-  - void 🖐️ used
-  - yield 🎓 known
-  - await 🖐️ used
-  - template literal
-  - strict mode 🖐️ used
-  - delete 🖐️ used
-  - in 🖐️ used
-  - super
-  - Symbol 🖐️ used
-  - Reflect
+  - Async IIFE
+  - `global` 🎓 known
+  - `globalThis` 🎓 known
+  - `window` 🖐️ used
+  - Getters and setters 🖐️ used
+  - `__proto__` 🎓 known
+  - `prototype` 🖐️ used
+  - Equality operators 🖐️ used
+  - Logical operators 🖐️ used
+  - Logical Assignment
+  - Bitwise operators 🖐️ used
+  - Ternary operator 🖐️ used
+  - `void` 🖐️ used
+  - `yield` 🎓 known
+  - `await` 🖐️ used
+  - Template literal
+  - Strict mode 🖐️ used
+  - Hoisting
+  - `delete` 🖐️ used
+  - `in` 🖐️ used
+  - `super`
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 🖐️ used
-  - for..of 🖐️ used
-  - for await 🖐️ used
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 🖐️ used
-  - export 🖐️ used
-  - label 🖐️ used
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
-  - new Error 🖐️ used
-  - with 🖐️ used
+  - `if` 🖐️ used
+  - `while` 🖐️ used
+  - `do..while` 🖐️ used
+  - `for` 🖐️ used
+  - `for..in` 🖐️ used
+  - `for..of` 🖐️ used
+  - `for await` 🖐️ used
+  - `throw` 🖐️ used
+  - `break` 🖐️ used
+  - `continue` 🖐️ used
+  - `import` 🖐️ used
+  - `export` 🖐️ used
+  - `label` 🖐️ used
+  - `try..catch` 🖐️ used
+  - `switch` 🖐️ used
+  - `class` 🖐️ used
+  - `extends`
+  - `with` 🖐️ used
+  - `new`
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
-  - default parameters 🖐️ used
-  - functional object 🖐️ used
+  - Arrow function 🖐️ used
+  - Async function
+  - Function declaration
+  - Function expression
+  - Default parameters 🖐️ used
+  - Functional object 🖐️ used
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`
 - Data structures
-  - Array 🖐️ used
-  - mixin 🎓 known
-  - extend 🖐️ used
-  - typed arrays 🖐️ used
-  - Map 🖐️ used
-  - Set 🖐️ used
-  - undefined 🖐️ used
-  - null 🖐️ used
-  - Proxy 🎓 known
-  - weak collections 🎓 known
-  - timers 🎓 known
-  - EventEmitter 🖐️ used
-  - RegExp
-  - Date 🖐️ used
-  - BigInt 🖐️ used
+  - `Array` 🖐️ used
+  - `Map` 🖐️ used
+  - `Set` 🖐️ used
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays 🖐️ used
+  - Mixins 🎓 known
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers
 - Infrastructure
   - V8
   - Node.js 🖐️ used
   - npm 🖐️ used
   - prettier 🖐️ used
   - MDN 🖐️ used
+  - TC39
