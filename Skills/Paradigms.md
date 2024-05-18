@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
-  - Imperative programming 🎓 known
-  - Structured programming 🎓 known
-  - Non-structured programming 🎓 known
-  - Functional programming 🖐️ used
-  - Prototype-based programming 🎓 known
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 🎓 known
-  - Generic programming 🎓 known
-  - Concurrent computing 🎓 known
-  - Asynchronous programming 🖐️ used
-  - Parallel programming 🖐️ used
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🎓 known
+  - Generic programming: 🎓 known
+  - Concurrent computing: 🎓 known
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages 🎓 known
-  - Multi-paradigm programming 🎓 known
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🖐️ used
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 🖐️ used
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
   - Interface
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance 🖐️ used
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,22 +64,22 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton 🎓 known
+  - Singleton: 🎓 known
   - Factory Method
   - Abstract Factory
   - Adapter
   - Observer
-  - Strategy 🎓 known
-  - Facade 🎓 known
-  - Proxy 🎓 known
-  - Chain of Responsibility 🎓 known
-  - Command 🎓 known
-  - Iterator 🎓 known
-  - State 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
   - Bridge
   - Builder
-  - Prototype 🎓 known
-  - Composite 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
   - Decorator
   - Flyweight
   - Mediator

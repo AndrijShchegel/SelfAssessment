@@ -4,12 +4,12 @@
   - Modularity
   - Components
   - Directories
-  - GRASP k
-  - SOLID k
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code h
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -19,20 +19,20 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality k
-  - Availability k
-  - Flexibility k
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL) h
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI) k
+  - Dependency injection (DI): 🎓 known
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
