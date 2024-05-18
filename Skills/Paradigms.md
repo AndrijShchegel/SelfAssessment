@@ -12,11 +12,11 @@
   - Generic programming 🎓 known
   - Concurrent computing 🎓 known
   - Asynchronous programming 🖐️ used
-  - Parallel programming 🎓 known
+  - Parallel programming 🖐️ used
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages 🎓 known
   - Multi-paradigm programming 🎓 known
   - Metaprogramming
   - Actor model

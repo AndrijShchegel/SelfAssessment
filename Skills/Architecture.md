@@ -4,12 +4,12 @@
   - Modularity
   - Components
   - Directories
-  - GRASP
-  - SOLID
+  - GRASP k
+  - SOLID k
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code h
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -19,20 +19,20 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Quality k
+  - Availability k
+  - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) h
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) k
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub

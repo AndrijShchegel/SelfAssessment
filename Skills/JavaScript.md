@@ -3,16 +3,16 @@
 - Language
   - `Object` 🖐️ used
   - `Function` 🖐️ used
-  - `Boolean`
-  - `Number`
-  - `BigInt`
+  - `Boolean` 🖐️ used
+  - `Number` 🖐️ used
+  - `BigInt` 🖐️ used
   - `String` 🖐️ used
-  - `Symbol`
+  - `Symbol` 🖐️ used
   - `Infinity` 🖐️ used
   - `NaN` 🖐️ used
   - `undefined` 🖐️ used
   - `null` 🖐️ used
-  - `this`
+  - `this` 🖐️ used
   - `instanceof` 🖐️ used
   - `...spread` 🖐️ used
   - `...rest` 🎓 known
@@ -80,15 +80,15 @@
   - `new`
 - Functions
   - Arrow function 🖐️ used
-  - Async function
-  - Function declaration
-  - Function expression
+  - Async function u
+  - Function declaration u
+  - Function expression u
   - Default parameters 🖐️ used
   - Functional object 🖐️ used
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - `Function.prototype.call` u
+  - `Function.prototype.bind` u
+  - `Function.prototype.apply` u
+  - `return` u
 - Data structures
   - `Array` 🖐️ used
   - `Map` 🖐️ used
@@ -101,18 +101,18 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` u
+  - `Math` u
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` u
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise` u
+  - `console` u
+  - Timers 
 - Infrastructure
   - V8
   - Node.js 🖐️ used

@@ -1,22 +1,22 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
+  - Schema versioning k
+  - Backup and recovery u
+  - Database scalability k
   - Relational databases
-  - Key-value store
+  - Key-value store u
   - Tuple store
   - Graph databases
   - Object databases
-  - Column databases
+  - Column databases u
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
-  - Inverted index
+  - Inverted index h
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
@@ -36,14 +36,14 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
+  - `LIMIT` k
+  - `OFFSET` h
+  - `ORDER BY` u
+  - `GROUP BY` h
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -56,23 +56,23 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` u
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`
+  - `PRIMARY KEY` u
   - `FOREIGN KEY`
   - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `DEFAULT` u
+  - `INDEX` u
+  - `UNIQUE` u
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL u
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite h
   - DynamoDB
   - Firebase
 - Data engineering

@@ -1,33 +1,33 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model 🖐️ used
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm 🖐️ used
+  - Syntax 🖐️ used
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction 🖐️ used
+  - Paradigm 🖐️ used
+  - Programm 🖐️ used
+  - Programming paradigm 🖐️ used
+  - Programming language 🖐️ used
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Module 🖐️ used
+  - Library 🖐️ used
+  - Package 🖐️ used
+  - Component 🖐️ used
+  - Framework 🖐️ used
+  - Platform 🖐️ used
+  - Source code 🖐️ used
   - Object code
-  - Machine code
+  - Machine code 🖐️ used
   - Microcode
-  - Software engineering
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse 🖐️ used
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
@@ -55,15 +55,15 @@
   - Assignment 🖐️ used
   - Regular expression 🖐️ used
   - Interface 🖐️ used
-  - Namespaces
+  - Namespaces 🖐️ used
   - Call stack 🖐️ used
-  - Naming conventions
+  - Naming conventions k
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case 🖐️ used
+  - Snake case 🖐️ used
+  - Kebab case k 
   - Trailing commas
-  - Return early
+  - Return early 🖐️ used
   - Fail-fast
 - Types
   - Primitive types
@@ -128,15 +128,15 @@
   - Immutable state 🖐️ used
   - Serialization 🖐️ used
   - String parsing 🖐️ used
-  - JSON
+  - JSON 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 🎓 known
+  - IPv6 🎓 known
   - NAT
   - URL
   - URN
@@ -152,8 +152,8 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime k
+  - Virtual machine 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -166,7 +166,7 @@
   - Unittesting 🖐️ used
   - git 🖐️ used
   - Github 🖐️ used
-  - Docker
+  - Docker 🖐️ used
   - Kubernetes
   - GCC
   - LLVM
@@ -186,14 +186,14 @@
   - Duplicate code 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -212,13 +212,13 @@
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Virtual memory 🎓 known
+  - File system 🖐️ used
+  - Linux 🎓 known
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 🖐️ used
   - W3C
   - ODMG
