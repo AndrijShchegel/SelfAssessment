@@ -17,15 +17,15 @@
   - `...spread`: 🖐️ used
   - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
-  - Destructuring
+  - Destructuring u
   - Generators: 🎓 known
   - Iterators: 🖐️ used
   - Async generator: 🎓 known
   - Async iterator: 🎓 known
   - Chaining: 🎓 known
   - Optional chaining: 🎓 known
-  - IIFE
-  - Async IIFE
+  - IIFE k
+  - Async IIFE k
   - `global`: 🎓 known
   - `globalThis`: 🎓 known
   - `window`: 🖐️ used
@@ -34,30 +34,30 @@
   - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment
+  - Logical Assignment u
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
   - `yield`: 🎓 known
   - `await`: 🖐️ used
-  - Template literal
+  - Template literal u
   - Strict mode: 🖐️ used
   - Hoisting
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `super` k
+  - `eval` k
+  - `static` k
+  - `Number.parseInt` u
+  - `Number.parseFloat` k
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields k
+  - Private class fields k
+  - Private class methods k
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -75,9 +75,9 @@
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
-  - `extends`
+  - `extends` u
   - `with`: 🖐️ used
-  - `new`
+  - `new` u
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 🖐️ used
@@ -97,14 +97,14 @@
   - `WeakSet`
   - Typed arrays: 🖐️ used
   - Mixins: 🎓 known
-  - `Object.assign`
+  - `Object.assign` k
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy` k
   - `RegExp`
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error` u
   - `Atomics`
   - `JSON`: 🖐️ used
   - `WeakRef`
@@ -112,9 +112,9 @@
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
-  - Timers
+  - Timers u
 - Infrastructure
-  - V8
+  - V8 h
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

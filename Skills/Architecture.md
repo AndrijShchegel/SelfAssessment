@@ -14,7 +14,7 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage k
   - Cohesion
   - Coupling
   - Cyclomatic complexity
