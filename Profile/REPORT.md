@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-336&nbsp;/&nbsp;625&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndrijShchegel/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-369&nbsp;/&nbsp;625&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndrijShchegel/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-336&nbsp;/&nbsp;625&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndrijShchegel/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-369&nbsp;/&nbsp;625&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/AndrijShchegel/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AndrijShchegel/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-336&nbsp;/&nbsp;625&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/AndrijShchegel/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-369&nbsp;/&nbsp;625&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,24 +15,24 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `18` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `30` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `19` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `33` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `0` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `22` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `24` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `3` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `5` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `15` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `10` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `16` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `4` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `1` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `38` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `17` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `51` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `5` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `5` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `6` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `8` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `12` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `10` | `18` |
@@ -57,7 +57,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `10` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `6` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `7` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `2` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
@@ -68,69 +68,42 @@
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
-| IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| `super` | 🤷 unknown | ⟶  | 🖐️ used |
-| `static` | 🤷 unknown | ⟶  | 👂 heard |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
-| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
-| `new` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
-| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
-| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
+| `super` | 🎓 known | ⟶  | 🖐️ used |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| V8 | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `54` of `72` skills, `18` to be upgraded, and `23` above needed
+Total: you have `68` of `72` skills, `4` to be upgraded, and `26` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
 | Generators | 🎓 known | ⟶  | 🖐️ used |
 | Async generator | 🎓 known | ⟶  | 🖐️ used |
 | Async iterator | 🎓 known | ⟶  | 🖐️ used |
 | Chaining | 🎓 known | ⟶  | 🖐️ used |
-| IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
+| IIFE | 🎓 known | ⟶  | 🖐️ used |
+| Async IIFE | 🎓 known | ⟶  | 🖐️ used |
 | `global` | 🎓 known | ⟶  | 🖐️ used |
 | `globalThis` | 🎓 known | ⟶  | 🖐️ used |
 | `yield` | 🎓 known | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| `super` | 🤷 unknown | ⟶  | 🖐️ used |
-| `eval` | 🤷 unknown | ⟶  | 🎓 known |
-| `static` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number.parseInt` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number.parseFloat` | 🤷 unknown | ⟶  | 🖐️ used |
+| `super` | 🎓 known | ⟶  | 🖐️ used |
+| `static` | 🎓 known | ⟶  | 🖐️ used |
+| `Number.parseFloat` | 🎓 known | ⟶  | 🖐️ used |
 | Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
 | Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Computed properties | 🤷 unknown | ⟶  | 🎓 known |
 | Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Static class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
-| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
-| `new` | 🤷 unknown | ⟶  | 🖐️ used |
 | `WeakMap` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakSet` | 🤷 unknown | ⟶  | 🎓 known |
-| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
-| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
-| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| V8 | 🤷 unknown | ⟶  | 🖐️ used |
+| V8 | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `59` of `98` skills, `39` to be upgraded, and `10` above needed
+Total: you have `72` of `98` skills, `26` to be upgraded, and `10` above needed
 
 ## [Async](/Skills/Async.md)
 

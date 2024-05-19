@@ -17,15 +17,15 @@
   - `...spread`: 🖐️ used
   - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
-  - Destructuring u
+  - Destructuring: 🖐️ used
   - Generators: 🎓 known
   - Iterators: 🖐️ used
   - Async generator: 🎓 known
   - Async iterator: 🎓 known
   - Chaining: 🎓 known
   - Optional chaining: 🎓 known
-  - IIFE k
-  - Async IIFE k
+  - IIFE: 🎓 known
+  - Async IIFE: 🎓 known
   - `global`: 🎓 known
   - `globalThis`: 🎓 known
   - `window`: 🖐️ used
@@ -34,30 +34,30 @@
   - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment u
+  - Logical Assignment: 🖐️ used
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
   - `yield`: 🎓 known
   - `await`: 🖐️ used
-  - Template literal u
+  - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
-  - `super` k
-  - `eval` k
-  - `static` k
-  - `Number.parseInt` u
-  - `Number.parseFloat` k
+  - `super`: 🎓 known
+  - `eval`: 🎓 known
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields k
-  - Private class fields k
-  - Private class methods k
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -75,9 +75,9 @@
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
-  - `extends` u
+  - `extends`: 🖐️ used
   - `with`: 🖐️ used
-  - `new` u
+  - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 🖐️ used
@@ -97,14 +97,14 @@
   - `WeakSet`
   - Typed arrays: 🖐️ used
   - Mixins: 🎓 known
-  - `Object.assign` k
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
-  - `Proxy` k
+  - `Proxy`: 🎓 known
   - `RegExp`
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` u
+  - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`: 🖐️ used
   - `WeakRef`
@@ -112,9 +112,9 @@
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
-  - Timers u
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8 h
+  - V8: 👂 heard
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

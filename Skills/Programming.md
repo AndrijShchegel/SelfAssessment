@@ -24,7 +24,7 @@
   - Machine code: 🖐️ used
   - Microcode
   - Software engineering: 🎓 known
-  - Decomposition u
+  - Decomposition: 🖐️ used
   - Control flow
   - Data flow
   - Code reuse: 🖐️ used
@@ -39,7 +39,7 @@
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
   - Expression: 🖐️ used
-  - Heap: u
+  - Heap: 🖐️ used
   - Function: 🖐️ used
   - Procedure: 🖐️ used
   - Method: 🖐️ used
@@ -57,14 +57,14 @@
   - Interface: 🖐️ used
   - Namespaces: 🖐️ used
   - Call stack: 🖐️ used
-  - Naming conventions: u
-  - Coding conventions u
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
   - Camel case: 🖐️ used
   - Snake case: 🖐️ used
   - Kebab case: 🎓 known
-  - Trailing commas u
+  - Trailing commas: 🖐️ used
   - Return early: 🖐️ used
-  - Fail-fast k
+  - Fail-fast: 🎓 known
 - Types
   - Primitive types
   - Reference types
@@ -132,13 +132,13 @@
   - JSON5
   - YAML
 - Networking
-  - DNS: u
-  - CDN k
+  - DNS: 🖐️ used
+  - CDN: 🎓 known
   - CORS
-  - IPv4: u
-  - IPv6: u
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
   - NAT
-  - URL u
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
@@ -173,25 +173,25 @@
 - Antipatterns
   - Magic numbers: 🎓 known
   - Hard code: 🎓 known
-  - Soft code k
+  - Soft code: 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity: 🎓 known
   - Action at a distance
   - Spaghetti: 🎓 known
   - Silver bullet: 🎓 known
-  - Not invented here k
+  - Not invented here: 🎓 known
   - Dead code: 🎓 known
   - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
-  - Premature optimization k
+  - Premature optimization: 🎓 known
   - Micro-optimization
   - Nested loops: 🎓 known
-  - Long method/function/procedure k
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
   - Large class/file
-  - Too many parameters k
-  - Pass-through parameters k
+  - Too many parameters: 🎓 known
+  - Pass-through parameters: 🎓 known
   - Accumulate and fire
   - Use switch/case: 🎓 known
   - Temporary field
