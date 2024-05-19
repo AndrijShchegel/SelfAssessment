@@ -1,22 +1,22 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
+  - Schema versioning: 🎓 known
+  - Backup and recovery: 🖐️ used
+  - Database scalability: 🎓 known
   - Relational databases
-  - Key-value store
+  - Key-value store: 🖐️ used
   - Tuple store
   - Graph databases
   - Object databases
-  - Column databases
+  - Column databases: 🖐️ used
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
-  - Inverted index
+  - Inverted index: 👂 heard
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
@@ -36,14 +36,14 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🎓 known
+  - `OFFSET`: 👂 heard
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 👂 heard
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -56,23 +56,23 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`
+  - `PRIMARY KEY`: 🖐️ used
   - `FOREIGN KEY`
   - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL: 🖐️ used
   - Oracle
-  - MySQL
+  - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
